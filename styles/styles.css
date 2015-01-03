@@ -7,6 +7,18 @@ body {
     
 }
 
+.navbar {
+
+  background-color: #4a4a4a;
+}
+
+ .navbar-brand {
+    color: white !important;
+      }
+
+a {
+  color: white !important;
+}
 img {
   position: absolute;
 }
