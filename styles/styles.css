@@ -43,32 +43,9 @@ img {
 
 }
 
-@media screen and (max-width: 550px) {
-   .text {
-       font-size: 10px;
-       width: 240px;
-       line-height: 15px;
-       margin-top: -72px;
-       font-weight: 700;
-        margin-left: 80px;
-        top:75px;
-    }
-
-}
 
 
-@media screen and (max-width: 750px) {
-   .text {
-       font-size: 10px;
-       width: 240px;
-       line-height: 15px;
-       margin-top: 60px;
-       font-weight: 700;
-        margin-left: 80px;
-        top:75px;
-    }
 
-}
 
 
 
