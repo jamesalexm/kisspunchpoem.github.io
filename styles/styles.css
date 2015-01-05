@@ -1,5 +1,5 @@
 body {
-  /*background-color: #D3D3D3;*/
+  
   font-family: Lucida Console;
   /*background-image: url("../images/unnamed.png");*/
 
@@ -8,8 +8,9 @@ body {
 }
 
 .navbar {
-
-  background-color: white;
+background-color: #4a4b4b;
+  /*background-color: white;*/
+  
 }
 
  .navbar-brand {
@@ -17,7 +18,7 @@ body {
       }
 
 a {
-  /*color: white !important;*/
+  color: white !important;
 }
 img {
   position: absolute;
